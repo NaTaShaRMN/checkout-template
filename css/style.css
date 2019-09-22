@@ -21,8 +21,15 @@ header {
     padding: 3rem 0;
 }
 
-.options {
+ul {
     list-style: none;
+}
+
+a {
+    text-decoration: none
+}
+
+.options {
     display: flex;
     justify-content: space-between;
     width: 180px;
